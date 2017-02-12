@@ -2,6 +2,11 @@ html {
   background-color: #f5f7f9;
 }
 
+img {
+  width: 100%;
+  
+}
+
 body {
   background: none;
   color: #69707a;
